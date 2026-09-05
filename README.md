@@ -1,3 +1,4 @@
+<img width="995" height="558" alt="Captura de tela 2026-09-05 143338" src="https://github.com/user-attachments/assets/2f743fb7-7420-4480-b079-583d31989d19" />
 # 📊 Desempenho Educacional — Rede Municipal de Fortaleza
 
 Dashboard em Power BI que investiga por que a maior rede municipal de ensino do Ceará apresenta desempenho no Ideb abaixo de municípios muito menores do mesmo estado e o que isso revela sobre gestão educacional em escala.
@@ -63,23 +64,13 @@ SWITCH(
     "Abaixo da média estadual"
 )
 ```
-
-## 🖼️ Prints do dashboard
-
-> *(adicione aqui 2-3 imagens do seu dashboard finalizado, salvas na pasta `/imagens` do repositório)*
-
-```markdown
-![Visão geral do dashboard](imagens/dashboard_geral.png)
-![Ranking de municípios](imagens/ranking.png)
-```
-
 ## ⚠️ Nota metodológica
 
 O Ideb combina a nota do Saeb (prova externa, aplicada fora da escola) com a taxa de aprovação (declarada pela própria escola no Censo Escolar). Isso reduz, mas não elimina, o risco de distorção por aprovação automática. Os dados públicos usados aqui não incluem infraestrutura, merenda escolar ou salário docente — o projeto aponta *onde* olhar com atenção, não afirma a causa exata dos resultados.
 
 ## 💡 Conclusão
 
-Municípios pequenos não têm sucesso por serem pequenos — eles têm sucesso porque conseguem proximidade entre gestão e sala de aula. O desafio de Fortaleza não é ser pequena, é simular essa proximidade em escala — e a divisão por distritos de educação é uma ferramenta possível para isso.
+Municípios pequenos não têm sucesso por serem pequenos eles têm sucesso porque conseguem proximidade entre gestão e sala de aula. O desafio de Fortaleza não é ser pequena, é simular essa proximidade em escala e a divisão por distritos de educação é uma ferramenta possível para isso.
 
 ## 📁 Estrutura do repositório
 
