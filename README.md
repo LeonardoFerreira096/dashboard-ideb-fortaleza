@@ -1,4 +1,4 @@
-<img width="995" height="558" alt="Captura de tela 2026-09-05 143338" src="https://github.com/user-attachments/assets/2f743fb7-7420-4480-b079-583d31989d19" />
+
 # 📊 Desempenho Educacional — Rede Municipal de Fortaleza
 
 Dashboard em Power BI que investiga por que a maior rede municipal de ensino do Ceará apresenta desempenho no Ideb abaixo de municípios muito menores do mesmo estado e o que isso revela sobre gestão educacional em escala.
